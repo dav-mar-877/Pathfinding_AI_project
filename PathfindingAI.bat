@@ -1,2 +1,2 @@
-Path\Scripts\python.exe TheEmeraldHunterAI\TheEmeraldHunter(Heu).py
+python TheEmeraldHunter(Heu).py
 
